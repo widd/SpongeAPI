@@ -695,6 +695,60 @@ public final class SoundTypes {
 
     public static final SoundType ENTITY_PARROT_HURT = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_HURT");
 
+    public static final SoundType ENTITY_PARROT_IMITATE_BLAZE = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_BLAZE");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_CREEPER = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_CREEPER");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_ELDER_GUARDIAN = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_ELDER_GUARDIAN");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_ENDERDRAGON = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_ENDERDRAGON");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_ENDERMAN = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_ENDERMAN");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_ENDERMITE = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_ENDERMITE");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_EVOCATION_ILLAGER = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_EVOCATION_ILLAGER");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_GHAST = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_GHAST");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_HUSK = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_HUSK");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_ILLUSION_ILLAGER = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_ILLUSION_ILLAGER");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_MAGMACUBE = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_MAGMACUBE");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_POLAR_BEAR = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_POLAR_BEAR");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_SHULKER = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_SHULKER");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_SILVERFISH = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_SILVERFISH");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_SKELETON = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_SKELETON");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_SLIME = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_SLIME");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_SPIDER = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_SPIDER");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_STRAY = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_STRAY");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_VEX = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_VEX");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_VINDICATION_ILLAGER = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_VINDICATION_ILLAGER");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_WITCH = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_WITCH");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_WITHER = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_WITHER");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_WITHER_SKELETON = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_WITHER_SKELETON");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_WOLF = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_WOLF");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_ZOMBIE = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_ZOMBIE");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_ZOMBIE_PIGMAN = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_ZOMBIE_PIGMAN");
+
+    public static final SoundType ENTITY_PARROT_IMITATE_ZOMBIE_VILLAGER = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_IMITATE_ZOMBIE_VILLAGER");
+
     public static final SoundType ENTITY_PARROT_STEP = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_STEP");
 
     public static final SoundType ENTITY_PIG_AMBIENT = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PIG_AMBIENT");
